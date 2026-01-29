@@ -1,5 +1,10 @@
 # ai-snapshot-test
 
+[![npm version](https://img.shields.io/npm/v/ai-snapshot-test.svg)](https://www.npmjs.com/package/ai-snapshot-test)
+[![npm downloads](https://img.shields.io/npm/dm/ai-snapshot-test.svg)](https://www.npmjs.com/package/ai-snapshot-test)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Auto-generate Jest snapshot tests for your React components. Covers all prop variations and edge cases.
 
 ## Install
