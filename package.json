@@ -1,5 +1,5 @@
 {
-  "name": "ai-snapshot-test",
+  "name": "@lxgicstudios/ai-snapshot-test",
   "version": "1.0.0",
   "description": "AI-powered snapshot test generator - component tests with GPT",
   "main": "dist/index.js",
