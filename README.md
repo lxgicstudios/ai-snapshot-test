@@ -1,13 +1,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LXGIC-Studios">
+  <a href="https://github.com/lxgicstudios">
     <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
   </a>
   <a href="https://npmjs.com/package/ai-snapshot-test">
     <img src="https://img.shields.io/npm/v/ai-snapshot-test.svg?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  <a href="https://github.com/LXGIC-Studios/ai-snapshot-test/actions">
+  <a href="https://github.com/lxgicstudios/ai-snapshot-test/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-snapshot-test/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 solve specific development challenges with AI-powered insights.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-snapshot-test.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-snapshot-test)
-[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-snapshot-test?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-snapshot-test)
-[![License: MIT](https://img.shields.io/npm/l/ai-snapshot-test.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-snapshot-test/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-snapshot-test?style=for-the-badge&logo=github&label=stars)](https://github.com/lxgicstudios/ai-snapshot-test)
+[![License: MIT](https://img.shields.io/npm/l/ai-snapshot-test.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/lxgicstudios/ai-snapshot-test/blob/main/LICENSE)
 
 </div>
 
@@ -112,7 +112,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/LXGIC-Studios/ai-snapshot-test.git
+git clone https://github.com/lxgicstudios/ai-snapshot-test.git
 cd ai-snapshot-test
 npm install
 npm run dev
@@ -131,7 +131,7 @@ Built with ❤️ by the LXGIC Studios team.
 <div align="center">
 
 **Built by LXGIC Studios**  
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
 </div>
