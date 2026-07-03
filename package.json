@@ -39,7 +39,8 @@
     "vitest",
     "regression-test",
     "ui-testing",
-    "june-2026-core-update"
+    "june-2026-core-update",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
